@@ -1,4 +1,4 @@
-<h1>Changing Passwords Within Active DIrectory</h1>
+<h1>Changing Passwords Within Active Directory</h1>
 
 
 <h2>Description</h2>
